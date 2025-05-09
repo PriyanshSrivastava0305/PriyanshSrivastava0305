@@ -32,15 +32,6 @@ Welcome to my GitHub profile! I'm Priyansh, an enthusiastic individual passionat
 
 ---
 
-### 📈 GitHub Stats
-
-<!-- GitHub Profile Stats -->
-![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshSrivastava0305&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshSrivastava0305&layout=compact&langs_count=8&theme=radical&hide=html,css)
-
----
 
 ### 📫 Connect with Me
 
