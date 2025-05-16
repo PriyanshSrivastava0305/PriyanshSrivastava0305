@@ -29,10 +29,10 @@ I'm Priyansh — a developer with a mind tuned to systems, stories, and structur
 
 ---
 
-### 📡 Signal Points
-
 - 🔗 [LinkedIn](https://www.linkedin.com/in/priyansh-srivastava0305)
 - 🌀 [GitHub](https://github.com/PriyanshSrivastava0305)
+- 📝 [Blog](https://whoispry.vercel.app/) — thoughts, ideas & tech breakdowns  
+- 🌐 [Portfolio](https://retropriyansh.vercel.app/) — work, projects & experiments  
 - 📧 `priyansh0305@gmail.com`
 
 ---
