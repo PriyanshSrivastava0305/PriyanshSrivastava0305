@@ -1,52 +1,57 @@
-<!---
+# PRIYANSH SRIVASTAVA
 
-- 👋 Hi, I’m @PriyanshSrivastava0305
-- 👀 I’m interested in exploring stuff
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on open source projects
---->
+> "Code is a spell. When cast well, it bends reality to your will."
 
-# 👋 Hello, I'm Priyansh Srivastava
-
-## 🚀 Aspiring Developer | 🎮 Tech Enthusiast | 🌱 Lifelong Learner
-
-Welcome to my GitHub profile! I'm Priyansh, an enthusiastic individual passionate about exploring the vast world of technology and coding. I'm on a journey to learn, build, and contribute to meaningful projects.
+🧠 Developer. ⚡ Systems Thinker. 🕸️ Builder of the abstract and the actual.
 
 ---
 
-### 🌟 About Me
+### 🖤 Who I Am
 
-- 🔭 Currently delving into the realms of web development and open-source contributions.
-- 🌱 Learning new programming languages and frameworks to enhance my skill set.
-- 💬 Always open to discussions about tech, innovation, and collaborative projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyansh-srivastava-91a0511bb/)
+I'm Priyansh — a developer with a mind tuned to systems, stories, and structure. I build software with precision and a bit of edge. Currently, I’m diving deep into:
 
----
-
-### 🛠️ Technologies & Tools
-
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: React, Node.js
-- **Tools**: Git, VS Code, GitHub
-- **Learning**: TypeScript, Next.js
+- AI-assisted tooling
+- Open-source collaboration
+- Systems that feel alive
 
 ---
 
+### 🔧 Tech Stack
 
-### 📫 Connect with Me
+**Languages**:  
+• `Python`• `Java`• `C` • `HTML` • `CSS`• `JavaScrit` • `TypeScript` • `Rust (learning)` 
 
-- [LinkedIn](https://www.linkedin.com/in/priyansh-srivastava-91a0511bb/)
-- [GitHub](https://github.com/PriyanshSrivastava0305)
+**Frameworks & Libraries**:  
+`React` • `PyTorch`
+
+**Tools & Platforms**:  
+`Git` • `VS Code` • `GitHub` • `Vercel` • `Docker` • `Postman` 
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 📡 Signal Points
 
-Thanks for visiting my profile! I'm always eager to connect and collaborate on exciting projects.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/priyansh-srivastava0305)
+- 🌀 [GitHub](https://github.com/PriyanshSrivastava0305)
+- 📧 `priyansh0305@gmail.com`
 
+---
 
+### 📂 Projects & Focus
 
-<!---
-PriyanshSrivastava0305/PriyanshSrivastava0305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> *“I don’t just ship code. I craft systems that think, adapt, and endure.”*
+
+- 🧩 Building tools that simplify complexity
+- 🧠 Exploring the intersection of cognition & computation
+- 🌐 Passionate about intuitive UI, modular architecture, and developer experience
+
+---
+
+### 🤝 Let’s Connect
+
+Whether it’s collaboration, or just an exchange of ideas reach out. 
+Let's build something meaningful.
+
+---
+
+_“The future belongs to those who code it.”_
