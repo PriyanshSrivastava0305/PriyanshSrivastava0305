@@ -1,6 +1,5 @@
 # PRIYANSH SRIVASTAVA
 
-![Visitor Count](https://profile-counter.glitch.me/PriyanshSrivastava0305/count.svg)
 
 
 > "Code is a spell. When cast well, it bends reality to your will."
